@@ -11,6 +11,8 @@ public class Programa {
 
         Exercicio4.CalculosNumeros();
 
+        Exercicio5.TrocaDeValores();
+
     }
 
 }
