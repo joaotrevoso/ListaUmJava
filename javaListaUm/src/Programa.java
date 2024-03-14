@@ -7,6 +7,8 @@ public class Programa {
 
         Exercicio2.SomaDosNumeros();
 
+        Exercicio3.MaiorVariavel();
+
     }
 
 }
