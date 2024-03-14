@@ -13,6 +13,8 @@ public class Programa {
 
         Exercicio5.TrocaDeValores();
 
+        Exercicio6.CelsiusToFahrenheit();
+
     }
 
 }
