@@ -5,6 +5,8 @@ public class Programa {
         
         Exercicio1.MenorOuIgualADez();
 
+        Exercicio2.SomaDosNumeros();
+
     }
 
 }
