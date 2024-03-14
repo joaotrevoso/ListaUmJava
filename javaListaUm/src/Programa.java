@@ -9,6 +9,8 @@ public class Programa {
 
         Exercicio3.MaiorVariavel();
 
+        Exercicio4.CalculosNumeros();
+
     }
 
 }
