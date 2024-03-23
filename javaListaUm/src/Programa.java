@@ -33,6 +33,8 @@ public class Programa {
 
         Exercicio15.DistanciaMedia();
 
+        Exercicio16.MediaTresAlunos();
+
     }
 
 }
