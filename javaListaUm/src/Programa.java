@@ -37,6 +37,8 @@ public class Programa {
 
         Exercicio17.MediaPonderada();
 
+        Exercicio18.MediaHarmonica();
+
     }
 
 }
