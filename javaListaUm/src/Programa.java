@@ -35,6 +35,8 @@ public class Programa {
 
         Exercicio16.MediaTresAlunos();
 
+        Exercicio17.MediaPonderada();
+
     }
 
 }
