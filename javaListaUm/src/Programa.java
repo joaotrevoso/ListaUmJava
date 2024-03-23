@@ -31,6 +31,8 @@ public class Programa {
 
         Exercicio14.ProgressaoAritimetica();
 
+        Exercicio15.DistanciaMedia();
+
     }
 
 }
