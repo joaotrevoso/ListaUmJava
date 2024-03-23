@@ -25,6 +25,8 @@ public class Programa {
 
         Exercicio11.ValoresCrescente();
 
+        Exercicio12.ShowMes();
+
     }
 
 }
