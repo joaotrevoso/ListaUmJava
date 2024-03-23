@@ -29,7 +29,7 @@ public class Programa {
 
         Exercicio13.OperadorAritimeticoValido();
 
-        
+        Exercicio14.ProgressaoAritimetica();
 
     }
 
