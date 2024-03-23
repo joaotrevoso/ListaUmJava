@@ -15,6 +15,8 @@ public class Programa {
 
         Exercicio6.CelsiusToFahrenheit();
 
+        Exercicio7.IsIn100And200();
+
     }
 
 }
