@@ -27,6 +27,10 @@ public class Programa {
 
         Exercicio12.ShowMes();
 
+        Exercicio13.OperadorAritimeticoValido();
+
+        
+
     }
 
 }
