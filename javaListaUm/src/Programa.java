@@ -19,6 +19,8 @@ public class Programa {
 
         Exercicio8.IsBiggerOrLowerThan50();
 
+        Exercicio9.IsDiferenteOuMaior();
+
     }
 
 }
