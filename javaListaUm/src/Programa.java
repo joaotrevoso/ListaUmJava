@@ -21,6 +21,10 @@ public class Programa {
 
         Exercicio9.IsDiferenteOuMaior();
 
+        Exercicio10.LerNumEscreverPorExtenso();
+
+        Exercicio11.ValoresCrescente();
+
     }
 
 }
