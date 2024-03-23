@@ -17,6 +17,8 @@ public class Programa {
 
         Exercicio7.IsIn100And200();
 
+        Exercicio8.IsBiggerOrLowerThan50();
+
     }
 
 }
